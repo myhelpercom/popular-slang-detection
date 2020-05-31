@@ -10,7 +10,7 @@ Finds whether the given string is a popular slang.
 
 
 
-Source of popular slang: [Popular Slang Dictionary](https://hkdicmy-helper.com/)
+Source of popular slang: [Popular Slang Dictionary](https://hkdic.my-helper.com/)
 
 
 
